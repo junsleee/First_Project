@@ -1,0 +1,17 @@
+body, html {
+    height: 30%;
+}
+    {
+    box-sizing: border-box;
+}
+
+.bg-img {
+    background-image: url("login screen.png");
+    min-height: 380px;
+    background-position: right;
+}
+
+.container {
+    position: absolute;
+    background-color: white;
+}
